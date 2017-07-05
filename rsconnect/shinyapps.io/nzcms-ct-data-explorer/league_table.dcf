@@ -1,0 +1,10 @@
+name: league_table
+title: league_table
+account: nzcms-ct-data-explorer
+server: shinyapps.io
+appId: 163593
+bundleId: 836789
+url: https://nzcms-ct-data-explorer.shinyapps.io/league_table/
+when: 1495492863.03074
+asMultiple: FALSE
+asStatic: FALSE
